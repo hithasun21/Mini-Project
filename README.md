@@ -1,1 +1,1 @@
-# Mini-Project
+# Anaemia Detection using palm photograph
