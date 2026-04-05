@@ -143,7 +143,7 @@ if submitted:
             """)
 
 st.markdown("---")
-st.caption("Prototype Web App | Non-Invasive Anaemia Detection using Palm Pallor | Streamlit © 2025")
+st.caption("Prototype Web App | For educational purposes only | Has scope to be developed further in the future | Non-Invasive Anaemia Detection using Palm Pallor | Streamlit © 2025")
 
 # -----------------------------
 # 🌈 Colorful Buttons + Mobile Responsive + Theme Detection
